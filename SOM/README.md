@@ -1,5 +1,7 @@
 # Self organizing Maps (SOM)
 
+This project is used to find the frauds in the bank
+
 The project was made while taking the course [Deep Learning A-Z 2024: Neural Networks, AI & ChatGPT Prize](https://www.udemy.com/course/deeplearning/?couponCode=KEEPLEARNING)
 
 ## Datasets:
